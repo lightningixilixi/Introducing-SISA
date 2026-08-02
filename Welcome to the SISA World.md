@@ -47,3 +47,8 @@ The SISA Impact:
 Shaping the Future of Edge Computing.
 By shifting the heavy lifting of memory management and device control directly into smart, independent hardware layers, SISA achieves a monumental goal: it completely isolates raw calculation speed from external data delays.
 SISA is useful because it gives developers the holy grail of embedded design: an ultra-fast user experience, rock-solid timing predictability, and ultra-low power consumption, wrapped inside a completely free and customizable ecosystem.
+
+
+
+
+                     WE ARE COMING SOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOON..................
